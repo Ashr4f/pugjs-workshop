@@ -16,7 +16,7 @@ The goal of this workshop is to make a slider with HTML (Using PugJS of course),
 
 ### Code and preparation
 
-The only needed thing from you is to transform the HTML template in [example/index.html](https://github.com/Ashr4f/pugjs-workshop/blob/master/example/index.html) into a dynamic PugJS file(s) using PugJS features as much as possible.
+You don't need to code or prepare for the style nor the slider functions (JS), everything is done and ready (Never hesitate to change functions or style but you will lose time :wink:), the only needed thing from you is to transform the HTML template in [example/index.html](https://github.com/Ashr4f/pugjs-workshop/blob/master/example/index.html) into a dynamic PugJS file(s) using PugJS features as much as possible.
 
 **Note**: There's a Gulp.js file with tasks configured already for you, so you don't have to worry about compiling PugJS / SCSS files.
 
