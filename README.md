@@ -20,6 +20,6 @@ You don't need to code or prepare for the style nor the slider functions (JS), e
 
 **Note**: There's a Gulp.js file with tasks configured already for you, so you don't have to worry about compiling PugJS / SCSS files.
 
-By running `npx gulp` in the repo, Gulp will create a new folder called `dist` with all the needed files and assets.
+By running `npx gulp` in the repo, Gulp will create a new folder called `dist`, this folder must be similar to `example` folder.
 
 Don't hesitate if you have any questions.
